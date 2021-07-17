@@ -1,0 +1,83 @@
+section {
+    
+    display: flex;
+    width: 100%;
+}
+
+body {
+
+    background-image: url("imagesss/Bckground.gif");
+}
+
+.pic {
+    margin-left: 10%;
+    border-style: double;
+    box-shadow: 10px 10px 40px rgb(170, 21, 21);
+}
+
+.text {
+    margin-left: 10%;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:rgb(146, 9, 9);
+   
+}
+
+.half {
+
+    margin-left: 10%;
+    margin-top: 5%;
+    font-style: italic;
+    font-size: "60%";
+    font-weight: bolder;
+    color:rgb(146, 9, 9);
+    
+}
+
+
+.far1 {
+
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    font-style: italic;
+    font-size: 100%;
+    font-weight: bolder;
+    color:rgb(146, 9, 9);
+    
+    
+}
+.far11 {
+
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-style: italic;
+    font-size: 100%;
+    font-weight: bolder;
+    color:rgb(146, 9, 9);
+    
+   
+}
+.far12 {
+
+    margin-left: 10%;
+    margin-bottom:5%;
+    margin-top: 5%;
+    font-style: italic;
+    font-size: 100%;
+    font-weight: bolder;
+    color:rgb(146, 9, 9);
+    
+    
+}
+.photo {
+    margin-top: 5%;
+    border-style: double;
+    box-shadow: 10px 10px 40px rgb(170, 21, 21);
+    
+}
+
+
+   
